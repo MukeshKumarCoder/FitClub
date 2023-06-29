@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-link = [https://magupta1.github.io/FitClub/](https://cheerful-panda-46cad6.netlify.app/)
+link = https://cheerful-panda-46cad6.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
